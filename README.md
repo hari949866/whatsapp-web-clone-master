@@ -22,18 +22,12 @@ Whatsapp web clone with Whatsapp web like UI and functionalities built using Rea
 <img src="https://www.logo.wine/a/logo/WhatsApp/WhatsApp-Logo.wine.svg" height="100"  alt="" />
 
 
-## Demo
-
-[LIVE](https://wwc-ps.vercel.app)
 
 
 ## Screenshots
 
 ![App Screenshot](https://i.ibb.co/X4SSHxQ/whatsapp-web-clone.gif)
 
-## Acknowledgements
-
- - [sonny sangha](https://github.com/sonnysangha)
   
 ## Features
 
@@ -77,9 +71,7 @@ Start the server
 Contributions are always welcome!
 
   
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
 
 
 
