@@ -25,8 +25,7 @@ Whatsapp web clone with Whatsapp web like UI and functionalities built using Rea
 
 Clone the project
 
-```bash
-  git clone https://github.com/Pinqua/whatsapp-web-clone.git
+
 ```
 
 Go to the project directory
